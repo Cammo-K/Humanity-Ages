@@ -29,17 +29,12 @@ public class NavigationManager : MonoBehaviour
                 break;
         }
 
+        StartCoroutine("LoadNextScene", sceneNumber);
+    }
+
+    IEnumerator LoadNextScene(int sceneNumber)
+    {
+        yield return new WaitForSeconds(1);
         SceneManager.LoadScene(sceneNumber);
-
-    }
-
-    // Start is called before the first frame update
-    void Start() {
-        
-    }
-
-    // Update is called once per frame
-    void Update() {
-        
     }
 }
