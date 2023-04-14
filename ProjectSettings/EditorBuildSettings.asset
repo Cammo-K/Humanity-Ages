@@ -9,12 +9,18 @@ EditorBuildSettings:
     path: Assets/Scenes/Scene_1_Home.unity
     guid: d608d0dff33d4ee409efd1974a4d836b
   - enabled: 1
-    path: Assets/Scenes/Scene_2_Cave 1.unity
+    path: Assets/Scenes/Scene_2_Cave.unity
     guid: ff67fb47528c9264c873fd5991b9e823
   - enabled: 1
-    path: Assets/Scenes/Scene_3_Industry 1.unity
+    path: Assets/Scenes/Scene_3_Industry.unity
     guid: c4e76be77fccf3947a4094db5cd52e6f
   - enabled: 1
     path: Assets/Scenes/Scene_4_Disaster.unity
+    guid: 63df6021a373a8947b532bcc8d0c32f2
+  - enabled: 1
+    path: Assets/Scenes/Scene_5_Hope.unity
+    guid: f3dca6f25d7e5284dbee9e2f733d73b0
+  - enabled: 1
+    path: Assets/Scenes/Scene_6_Credits.unity
     guid: 5afddf4cf6c3c9c4c9b60feac76e8619
   m_configObjects: {}
