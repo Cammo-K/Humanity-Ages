@@ -2542,6 +2542,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -77.602
       objectReference: {fileID: 0}
+    - target: {fileID: 198161444309756460, guid: bccc7a794e75b2a44a4b0dac69160b7b, type: 3}
+      propertyPath: looping
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 198161444309756460, guid: bccc7a794e75b2a44a4b0dac69160b7b, type: 3}
+      propertyPath: lengthInSec
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: 198421077076039884, guid: bccc7a794e75b2a44a4b0dac69160b7b, type: 3}
       propertyPath: looping
       value: 1
@@ -2996,6 +3004,14 @@ PrefabInstance:
     - target: {fileID: 4317874184272834, guid: bccc7a794e75b2a44a4b0dac69160b7b, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: -77.602
+      objectReference: {fileID: 0}
+    - target: {fileID: 198161444309756460, guid: bccc7a794e75b2a44a4b0dac69160b7b, type: 3}
+      propertyPath: looping
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 198161444309756460, guid: bccc7a794e75b2a44a4b0dac69160b7b, type: 3}
+      propertyPath: lengthInSec
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 198421077076039884, guid: bccc7a794e75b2a44a4b0dac69160b7b, type: 3}
       propertyPath: looping
@@ -4842,6 +4858,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fuel_tank
       objectReference: {fileID: 0}
+    - target: {fileID: 3049104973197647789, guid: e9b5a626ec553f44c9bde9f7c599aa55, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4220590905904181573, guid: e9b5a626ec553f44c9bde9f7c599aa55, type: 3}
       propertyPath: m_LocalPosition.y
       value: -17.9
@@ -4890,9 +4910,21 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6959503987138764632, guid: e9b5a626ec553f44c9bde9f7c599aa55, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -23.477987
+      objectReference: {fileID: 0}
     - target: {fileID: 7370878375332041454, guid: e9b5a626ec553f44c9bde9f7c599aa55, type: 3}
       propertyPath: m_Name
       value: Space_Shuttle
+      objectReference: {fileID: 0}
+    - target: {fileID: 7493166640180721356, guid: e9b5a626ec553f44c9bde9f7c599aa55, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -23.477987
+      objectReference: {fileID: 0}
+    - target: {fileID: 8017802953614904059, guid: e9b5a626ec553f44c9bde9f7c599aa55, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -23.477987
       objectReference: {fileID: 0}
     - target: {fileID: 8357566990350615048, guid: e9b5a626ec553f44c9bde9f7c599aa55, type: 3}
       propertyPath: m_LocalPosition.x
